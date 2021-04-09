@@ -1,0 +1,53 @@
+baseurl = "http://kcnischool.org"
+#title = "KCNI Summer School 2021 <br> <br> Solving Problems in Mental Health Using Multi-Scale Computational Neuroscience"
+title = "KCNI Summer School 2021"
+# <br> <br> Solving Problems in Mental Health Using Multi-Scale Computational Neuroscience"
+
+
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  description = "Solving Problems in Mental Health Using Multi-Scale Computational Neuroscience <br> <br> 5-14 July 2021 <br> <br> Krembil Centre for Neuroinformatics <br> Centre for Addiction and Mental Health <br>Toronto <br><br> krembilneuroinformatics.ca <br> "
+  #description = "<br> <br> 5-14 July 2021 <br> <br> Krembil Centre for Neuroinformatics <br> Centre for Addiction and Mental Health <br>Toronto <br>"
+  #description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br /> <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
+  #description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br /> <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
+  logo = "fa-laptop"
+  #logo = "fa-gears"
+  # "/images/computational_genomics.jpg"  
+  #logo = #"fa-diamond"
+  #copyright = "Untitled"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "#"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "#"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "#"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "#"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+
+#[languages.de]
+#languageName = "Deutsch"
+#weight = 2
+#title = "Dimension"
+#description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br /> <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
